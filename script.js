@@ -1,4 +1,4 @@
-const accessKey = config.MY_API_TOKEN;
+const accessKey = process.env.API_KEY;
 
 const formEl = document.querySelector("form");
 const inputEl = document.getElementById("search-input");
