@@ -1,4 +1,4 @@
-const accessKey = process.env.API_KEY;
+const accessKey = "7Vvu43kzR_KUknILaGn2IQAW6hcHgPl8S4-3zznEO7g";
 
 const formEl = document.querySelector("form");
 const inputEl = document.getElementById("search-input");
